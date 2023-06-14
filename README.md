@@ -1,0 +1,3 @@
+- 23.06 한환기 Camera Calibration 실습 코드(수강생 코드 참고)
+- demo.ipynb : 작업 과정 및 결과 조회
+- python main.py : 전과정 수행  및 결과 조회
