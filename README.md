@@ -1,3 +1,5 @@
 - 23.06 한환기 Camera Calibration 실습 코드(수강생 코드 참고)
 - demo.ipynb : 작업 과정 및 결과 조회
 - python main.py : 전과정 수행  및 결과 조회
+- Notion 링크 : https://heliotrope-composer-6a6.notion.site/CV-Camera-Calibration-9f788c9bbb914a5fa676c09cb866b9ea?pvs=4
+	- 참조 github링크 및 간단한 함수 설명 기록
